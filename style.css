@@ -6,3 +6,11 @@ body {
   align-items: center;
   height: 100vh;
 }
+.black {
+  background-color: black;
+  color: white;
+}
+.buttn {
+  padding: 30px 10px;
+  cursor: pointer;
+}
